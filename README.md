@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "4.Организация тестирования"
+# Animation
 [Github Pages](https://stasyabunina.github.io/e2e/)  
 
-![CI](https://github.com/stasyabunina/e2e/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/stasyabunina/animation/actions/workflows/web.yml/badge.svg)
